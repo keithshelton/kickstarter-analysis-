@@ -1,0 +1,24 @@
+# Kickstarter funding success based on launch date and goals 
+
+## The project required a multivariate analysis of prior Kickstarter campaigns and the success of achieving the funding goals.  An analysis was completed to determine success factors such as the size of the funding goals, the campaign country, and type of project to name a few.  Ultimately determined the best way to evaluate success was by number size of the target goal and when the campaign was launched.  
+
+### To determine likelihood of achieving the desired funding.  
+
+## An analysis was completed on a large amount of data including key elements such as funding goal, amount pledged, whether successful or not, number of backers involved and various categories and subcategories.  The biggest challenge was determining the relevant information to analyze and inform Louise the likely success of her campaign.  
+
+### Theater Campaigns launched in the summer months are the most successful, particularly those launched in May and June.  
+
+### The smaller the funding goal the more likely to be successful.  
+
+### Leveraging Countifs function to calculate various data points proved to be the most challenging part of the analysis.  
+
+## We can draw several conclusions based on the completed analysis outlined below.  
+
+- The data clearly shows that campaigns that launched in the summer have the greatest amount of success, particularly in May and June.  There is a sharp decline in successful campaigns through the year with the least success occurring in December.  
+
+- The smaller the goal the more likely it is to be successful.  Campaigns less than 1000 dollars have the greatest degree of success and those between $45k and $49,999 have the lowest degree of success.  
+
+- We can not determine from the data if those that are successful had a different approach to locating backers to support their projects vs those that were not successful. We can also not determine the quality of the project or effectiveness of pitching to backers had an impact on the success.  
+
+- We could evaluate if the length of time given to obtain the funding had a material impact on the ultimate success.  We could also evaluate the average amount pledged by backer and the correlation to successfully achieving the target as well as evaluate other data elements and correlation to success.  
+
